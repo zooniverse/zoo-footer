@@ -1,8 +1,8 @@
 {
   "name": "zoo-footer",
   "version": "0.0.1",
-  "description": "Footer content for Zooniverse projects",
-  "main": "index.js",
+  "description": "Common content for footers in custom Zoo projects",
+  "main": "public/zoo-footer.json",
   "scripts": {
     "deploy": "gulp deploy",
     "test": "gulp test"
