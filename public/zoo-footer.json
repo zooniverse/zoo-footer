@@ -1,0 +1,104 @@
+{
+
+    "description": "The Zooniverse is the world’s largest and most popular platform for people-powered research. This research is made possible by hundreds of thousands of volunteers around the world. Zooniverse research results in new discoveries, datasets useful to the wider research community, and many publications.",
+    "buttonText": "See the Zooniverse",
+    "projectsList": [
+        {
+            "category": "Space",
+            "projects": [
+                {
+                    "name": "Radio Galaxy Zoo",
+                    "url": "http://radio.galaxyzoo.org/"
+                },
+                {
+                    "name": "Disk Detective",
+                    "url": "http://www.diskdetective.org/"
+                },
+                {
+                    "name": "Planet Hunters",
+                    "url": "http://www.planethunters.org/"
+                },
+                {
+                    "name": "Galaxy Zoo",
+                    "url": "http://www.galaxyzoo.org/"
+                },
+                {
+                    "name": "The Milky Way Project",
+                    "url": "http://www.milkywayproject.org/"
+                },
+                {
+                    "name": "Planet Four",
+                    "url": "http://www.planetfour.org/"
+                }
+            ]
+        },
+        {
+            "category": "Natural World",
+            "projects": [
+                {
+                    "name": "Snapshot Serengeti",
+                    "url": "http://www.snapshotserengeti.org/"
+                },
+                {
+                    "name": "Floating Forests",
+                    "url": "http://www.floatingforests.org/"
+                },
+                {
+                    "name": "Penguin Watch",
+                    "url": "http://www.penguinwatch.org/"
+                },
+                {
+                    "name": "Cyclone Center",
+                    "url": "http://www.cyclonecenter.org/"
+                },
+                {
+                    "name": "Plankton Portal",
+                    "url": "http://www.planktonportal.org/"
+                },
+                {
+                    "name": "Condor Watch",
+                    "url": "http://www.condorwatch.org/"
+                }
+            ]
+        },
+        {
+            "category": "Humanities",
+            "projects": [
+                {
+                    "name": "Old Weather",
+                    "url": "http://www.oldweather.org/"
+                },
+                {
+                    "name": "Operation War Diary",
+                    "url": "http://www.operationwardiary.org/"
+                },
+                {
+                    "name": "Notes from Nature",
+                    "url": "http://www.notesfromnature.org/"
+                },
+                {
+                    "name": "Ancient Lives",
+                    "url": "http://www.ancientlives.org/"
+                }
+            ]
+        },
+        {
+            "category": "Biology & Physics",
+            "projects": [
+                {
+                    "name": "Worm Watch Lab",
+                    "url": "http://www.wormwatchlab.org/"
+                },
+                {
+                    "name": "Cell Slider",
+                    "url": "http://www.cellslider.net/"
+                },
+                {
+                    "name": "Higgs Hunters",
+                    "url": "http://www.higgshunters.org/"
+                }
+            ]
+        }
+    ],
+    "strapline": "The universe is too big to explore without you"
+}

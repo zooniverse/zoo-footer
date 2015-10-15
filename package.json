@@ -1,0 +1,31 @@
+{
+  "name": "zoo-footer",
+  "version": "0.0.1",
+  "description": "Footer content for Zooniverse projects",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gulp deploy",
+    "test": "gulp test"
+  },
+  "keywords": [
+    "zooniverse",
+    "footer",
+    "json"
+  ],
+  "author": "Roger Hutchings <roger@hutchin.gs> (https://github.com/rogerhutchings)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jsonlint": "^1.1.1",
+    "gulp-util": "^3.0.6",
+    "s3": "^4.4.0"
+  },
+  "homepage": "https://github.com/zooniverse/zoo-footer",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zooniverse/zoo-footer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zooniverse/zoo-footer/issues"
+  },
+}
