@@ -65,6 +65,10 @@
             "category": "Humanities",
             "projects": [
                 {
+                    "name": "AnnoTate",
+                    "url": "https://anno.tate.org.uk"
+                },
+                {
                     "name": "Old Weather",
                     "url": "http://www.oldweather.org/"
                 },
