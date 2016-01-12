@@ -58,6 +58,14 @@
                 {
                     "name": "Condor Watch",
                     "url": "http://www.condorwatch.org/"
+                },
+                {
+                    "name": "Wildcam Gorongosa",
+                    "url": "http://www.wildcamgorongosa.org/"
+                },
+                {
+                    "name": "Wisconsin Wildlife Watch",
+                    "url": "http://wisconsinwildlifewatch.org/"
                 }
             ]
         },
@@ -79,6 +87,14 @@
                 {
                     "name": "Ancient Lives",
                     "url": "http://www.ancientlives.org/"
+                },
+                {
+                    "name": "AnnoTate",
+                    "url": "https://anno.tate.org.uk/"
+                },
+                {
+                    "name": "Shakespeare's World",
+                    "url": "http://www.shakespearesworld.org/"
                 }
             ]
         },
